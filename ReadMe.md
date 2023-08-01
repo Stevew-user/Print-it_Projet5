@@ -1,1 +1,1 @@
-# Print-It WebSite v.1
+# Print-It Projet Openclassroom n°5, Modification d'une bannière statique en un carrousel
